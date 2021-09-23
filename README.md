@@ -10,7 +10,7 @@ Desenvolvo ferramentas para te auxiliar nas suas atividades diárias - desde pro
 
 Alguns dos projetos:
 
-![YOUR github stats](https://github-readme-stats.vercel.app/api?lucasestrelaa=lucasestrelaa)
+![YOUR github stats](https://github-readme-stats.vercel.app/api?username=lucasestrelaa)
 
 <hr>
 O que você vai encontrar lá?
