@@ -6,7 +6,7 @@ Sou o Lucas Estrela rs
 
 Desenvolvedor de ferramentas para te auxiliar nas suas atividades diárias - desde projetos para a criação de layouts até aplicativos (confira no repositório).
 
-Alguns dos projetos:
+<hr>
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=lucasestrelaa)
 
