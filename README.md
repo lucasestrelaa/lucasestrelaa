@@ -1,12 +1,12 @@
 ### Eae, tudo jóia? 👋
 
-<img src="https://github.com/pr2tik1/pr2tik1/blob/master/IMAGE-NAME">
+<hr>
 
 Sou eu Lucas Estrela rs
 
 Começando pelo começo, quem é o Lucas?
 
-Desenvolvo ferramentas para te auxiliar nas suas atividades diárias - desde projetos para a criação de layouts até aplicativos (confira no repositório).
+Desenvolvoedor de ferramentas para te auxiliar nas suas atividades diárias - desde projetos para a criação de layouts até aplicativos (confira no repositório).
 
 Alguns dos projetos:
 
