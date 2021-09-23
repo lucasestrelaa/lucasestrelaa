@@ -2,18 +2,17 @@
 
 <hr>
 
-Sou eu Lucas Estrela rs
+Sou o Lucas Estrela rs
 
-Começando pelo começo, quem é o Lucas?
-
-Desenvolvoedor de ferramentas para te auxiliar nas suas atividades diárias - desde projetos para a criação de layouts até aplicativos (confira no repositório).
+Desenvolvedor de ferramentas para te auxiliar nas suas atividades diárias - desde projetos para a criação de layouts até aplicativos (confira no repositório).
 
 Alguns dos projetos:
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=lucasestrelaa)
 
 <hr>
-O que você vai encontrar lá?
+
+<h2>O que você vai encontrar lá?</h2>
 Projetos em 
 <div>
   <img src="https://camo.githubusercontent.com/ef3fcc0cf0f18b69a2857bf30db72e49daa884d3dade4f83738b8823696348f8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656163742e6a732d3435623864383f7374796c653d666c61742d737175617265266c6f676f3d7265616374266c6f676f436f6c6f723d7768697465" />
